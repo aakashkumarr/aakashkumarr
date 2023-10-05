@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aakash and I'm a Software Engineer, from HCLTech, India</h2>
+<h2 align="left">Hi 👋! My name is Aakash Kumar and I'm a Software Engineer, from HCLTech, India</h2>
 
 ###
 
